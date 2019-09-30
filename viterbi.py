@@ -1,6 +1,6 @@
 """
     File name: viterbi.py
-    Author: Poerwiyanto.
+    Author: Poerwiyanto
     Date created: 4/26/2019
     Date last modified: 4/26/2019
     Python version: 3.7.1
